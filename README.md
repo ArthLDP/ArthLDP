@@ -12,4 +12,4 @@ I'm a 19 years old CS student, i love to code and learn new technologies, im cur
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthLDP&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/ArthLDP)
 
-You can find my java projects at: https://replit.com/@ArthurLourenco1
+You can find my Java projects at: https://replit.com/@ArthurLourenco1
