@@ -1,7 +1,7 @@
 Hi 👋 My name is Arthur
 ==========================
 
-Software Developer
+Computer Science student
 -----------------------------
 
 I'm a 19 years old CS student, i love to code and learn new technologies, im currently learning java and c++.
