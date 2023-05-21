@@ -4,10 +4,11 @@ Hi 👋 My name is Arthur
 Computer Science student
 -----------------------------
 
-I'm a 19 years old CS student, i love to code and learn new technologies, im currently learning java and c++.
+I'm a 19 years old CS student, i love to code and learn new technologies, im currently learning java, c and c++.
 
 ### Learnings:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-f20707?style=for-the-badge&logo=java&logoColor=blue)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
