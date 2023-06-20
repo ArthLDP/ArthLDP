@@ -1,7 +1,7 @@
 Olá 👋 meu nome é Arthur
 ==========================
 
-Estudante de Ciência da Computação
+Estudante de Ciências da Computação
 -----------------------------
 
 Eu tenho 19 anos, gosto de programar e aprender novas tecnologias, atualmente estou aprendendo c++.
