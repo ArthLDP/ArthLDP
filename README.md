@@ -1,10 +1,10 @@
-Hi 👋 My name is Arthur
+Olá 👋 meu nome é Arthur
 ==========================
 
-Computer Science student
+Estudante de Ciência da Computação
 -----------------------------
 
-I'm a 19 years old CS student, i love to code and learn new technologies, im currently learning java, c and c++.
+Eu tenho 19 anos, gosto de programar e aprender novas tecnologias, atualmente estou aprendendo c++.
 
 ### Learnings:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -12,7 +12,7 @@ I'm a 19 years old CS student, i love to code and learn new technologies, im cur
 ![Java](https://img.shields.io/badge/Java-f20707?style=for-the-badge&logo=java&logoColor=blue)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-You can find my Java projects at: https://replit.com/@ArthurLourenco1
+Você consegue encontrar meus projetos java em: https://replit.com/@ArthurLourenco1
 
 # Contacts:
 <div>
