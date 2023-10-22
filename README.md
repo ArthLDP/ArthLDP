@@ -4,13 +4,13 @@ Olá 👋 meu nome é Arthur
 Estudante de Ciência da Computação
 -----------------------------
 
-Eu tenho 19 anos, gosto de programar e aprender novas tecnologias, atualmente estou aprendendo c++.
+Eu tenho 19 anos, gosto de programar e aprender novas tecnologias, atualmente estou aprendendo rust.
 
 ### Learnings:
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-f20707?style=for-the-badge&logo=java&logoColor=blue)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-FF0000?style=for-the-badge&logo=rust&logoColor=black)
 
 Você consegue encontrar meus projetos java em: https://replit.com/@ArthurLourenco1
 
