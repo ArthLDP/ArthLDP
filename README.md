@@ -12,8 +12,6 @@ Eu tenho 19 anos, gosto de programar e aprender novas tecnologias, atualmente es
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-FF0000?style=for-the-badge&logo=rust&logoColor=black)
 
-Você consegue encontrar meus projetos java em: https://replit.com/@ArthurLourenco1
-
 # Contacts:
 <div>
 <a href = "arthurlourencodp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
