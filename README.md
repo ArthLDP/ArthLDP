@@ -17,7 +17,7 @@ Eu tenho 19 anos, gosto de programar e aprender novas tecnologias.
   <b>Linux</b>
 </div>
 
-<div style="display: flex; align-items: center;">
+<div>
   <img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
   <b>Java</b>
 </div>
