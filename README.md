@@ -8,7 +8,7 @@ Eu tenho 19 anos, gosto de programar e aprender novas tecnologias.
 
 ### Learnings:
 
-<div style="gap: 10px">
+<div style="display: flex; flex-direction: row; gap: 10px;">
   <div>
     <img style="height: 40px; width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
     <b>Linux</b>
