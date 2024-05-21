@@ -4,7 +4,7 @@ Olá 👋 meu nome é Arthur
 Estudante de Ciência da Computação
 -----------------------------
 
-Eu tenho 19 anos, gosto de programar e aprender novas tecnologias.
+Eu tenho 20 anos, gosto de programar e aprender novas tecnologias.
 
 ### Learnings:
 
