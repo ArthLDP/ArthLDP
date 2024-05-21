@@ -25,6 +25,11 @@ Eu tenho 20 anos, gosto de programar e aprender novas tecnologias.
   </div>
 
   <div>
+      <img style="height: 40px; width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+      <b>Typescript</b>
+  </div>
+
+  <div>
       <img style="height: 40px; width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
       <b>Javascript</b>
   </div>
