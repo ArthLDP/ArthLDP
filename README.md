@@ -12,7 +12,11 @@ Eu tenho 19 anos, gosto de programar e aprender novas tecnologias.
 ![Javascript](https://img.shields.io/badge/Javascript-f20707?style=for-the-badge&logo=java&logoColor=blue)
 ![HTML](https://img.shields.io/badge/Html-f20707?style=for-the-badge&logo=java&logoColor=blue)
 ![CSS](https://img.shields.io/badge/Css-f20707?style=for-the-badge&logo=java&logoColor=blue)
-<img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+
+<div>
+  <p>Linux</p>
+  <img style="height: 50px; width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+</div>
 
 # Contacts:
 <div>
