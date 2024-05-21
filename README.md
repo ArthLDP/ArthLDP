@@ -7,40 +7,26 @@ Estudante de Ciência da Computação
 Eu tenho 19 anos, gosto de programar e aprender novas tecnologias.
 
 ### Learnings:
-![HTML](https://img.shields.io/badge/Html-f20707?style=for-the-badge&logo=java&logoColor=blue)
-![CSS](https://img.shields.io/badge/Css-f20707?style=for-the-badge&logo=java&logoColor=blue)
 
 <div>
   <img style="height: 40px; width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   <b>Linux</b>
-</div>
 
-<div>
   <img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
   <b>Java</b>
-</div>
 
-<div>
   <img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
   <b>C</b>
-</div>
 
-<div>
   <img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
   <b>Javascript</b>
-</div>
 
-<div>
   <img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
   <b>HTML</b>
-</div>
 
-<div>
   <img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
   <b>CSS</b>
-</div>
 
-<div>
   <img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
   <b>Angular</b>
 </div>
