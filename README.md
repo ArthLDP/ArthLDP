@@ -8,10 +8,14 @@ Eu tenho 19 anos, gosto de programar e aprender novas tecnologias.
 
 ### Learnings:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=black)
-<img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
 ![Javascript](https://img.shields.io/badge/Javascript-f20707?style=for-the-badge&logo=java&logoColor=blue)
 ![HTML](https://img.shields.io/badge/Html-f20707?style=for-the-badge&logo=java&logoColor=blue)
 ![CSS](https://img.shields.io/badge/Css-f20707?style=for-the-badge&logo=java&logoColor=blue)
+
+<div>
+  <img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
+  <b>Java</b>
+</div>
 
 <div>
   <img style="height: 40px; width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
