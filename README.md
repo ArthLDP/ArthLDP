@@ -46,10 +46,7 @@ Eu tenho 20 anos, gosto de programar e aprender novas tecnologias.
 </div>
 
 # Contacts:
-<div>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  <b>arthurlourencodp@gmail.com</b>
-</div>
+Email: arthurlourencodp@gmail.com
 
 <a href= "https://www.linkedin.com/in/arthur-pessoa-914406235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
