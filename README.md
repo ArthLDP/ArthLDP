@@ -36,12 +36,12 @@ Eu tenho 19 anos, gosto de programar e aprender novas tecnologias.
 </div>
 
 <div>
-  <img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
+  <img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
   <b>CSS</b>
 </div>
 
 <div>
-  <img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
+  <img style="height: 60px; width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
   <b>Angular</b>
 </div>
 
