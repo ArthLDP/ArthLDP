@@ -16,7 +16,7 @@ Eu tenho 20 anos, gosto de desenvolver software e aprender novas tecnologias.
 
 ## Learnings:
 
-![C](https://img.shields.io/badge/-blue?logo=c)
+![C](https://img.shields.io/badge/-C-blue?logo=c)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
