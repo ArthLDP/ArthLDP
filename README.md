@@ -4,58 +4,31 @@ Olá 👋 meu nome é Arthur
 Estudante de Ciência da Computação
 -----------------------------
 
-Eu tenho 20 anos, gosto de programar e aprender novas tecnologias.
+Eu tenho 20 anos, gosto de desenvolver software e aprender novas tecnologias.
 
-### Learnings:
+- Entrar em contato: arthurlourencodp@gmail.com
+<br></br>
 
+# LinkedIn:
 <div>
-  <div>
-    <img style="height: 40px; width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-    <b>Linux</b>
-  </div>
-
-  <div>
-      <img style="height: 40px; width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
-      <b>Java</b>
-  </div>
-
-  <div>
-      <img style="height: 40px; width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-      <b>C</b>
-  </div>
-
-  <div>
-      <img style="height: 40px; width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-      <b>Typescript</b>
-  </div>
-
-  <div>
-      <img style="height: 40px; width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-      <b>Javascript</b>
-  </div>
-
-  <div>
-    <img style="height: 40px; width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
-    <b>HTML</b>
-  </div>
-
-  <div>
-    <img style="height: 40px; width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
-    <b>CSS</b>
-  </div>
-
-  <div>
-    <img style="height: 40px; width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
-    <b>Angular</b>
-  </div>
+<a href= "https://www.linkedin.com/in/arthur-pessoa-914406235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-# Contacts:
-<a href= "https://www.linkedin.com/in/arthur-pessoa-914406235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+## Learnings:
 
-Email: arthurlourencodp@gmail.com
+![C](https://img.shields.io/badge/-blue?logo=c)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<br></br>
 
-
-[![ArthLDP github stats](https://github-readme-stats.vercel.app/api?username=ArthLDP&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/ArthLDP))
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthLDP&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/ArthLDP)
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=ArthLDP&ryo-ma&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+<br><br>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ArthLDP&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+<br><br>
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthLDP&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+<br><br>
