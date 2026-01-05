@@ -4,7 +4,7 @@ Olá 👋 meu nome é Arthur
 Estudante de Ciência da Computação
 -----------------------------
 
-Eu tenho 21 anos, gosto de aprender novas tecnologias.
+Eu tenho 22 anos, gosto de aprender novas tecnologias.
 
 - Entrar em contato: arthurlourencodp@gmail.com
 <br></br>
